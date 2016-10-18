@@ -1,4 +1,4 @@
 [gerrit]
-host=gerrit.asterisk.orgXXX
+host=gerrit.asterisk.orgYYY
 port=222222
 project=astxxxxerisk.git
