@@ -5,7 +5,6 @@
 # *.[oa]
 # *~
 
-# See .gitignore in subdirectories for more ignored files
 
 *~
 *.[oadi]
@@ -33,5 +32,4 @@ menuselect-tree
 *.gcda
 latex
 doxygen.log
-out/
 
